@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: #222;
+    margin-bottom: 1rem;
+}
+p{
+    color: #334488;
+}
